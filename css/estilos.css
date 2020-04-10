@@ -9,17 +9,19 @@ body {
 }
 
 h1 {
-    color: greenyellow;
+    color: gold;
     margin-top: 0;
 }
 
 p {
-    color: orange;
+    color: mediumslateblue;
 }
 .clase{
-    font-size: xx-large;
+    font-size: 20px;
     /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder; */
     background-color: seagreen;
-    margin top:
+    margin top:0;
+    padding: 20px;
+
 }
