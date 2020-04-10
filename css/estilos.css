@@ -10,8 +10,16 @@ body {
 
 h1 {
     color: greenyellow;
+    margin-top: 0;
 }
 
 p {
     color: orange;
+}
+.clase{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: seagreen;
+    margin top:
 }
