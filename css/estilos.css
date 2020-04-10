@@ -9,14 +9,6 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
-    color: slategray;
-}
-
-p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blueviolet;
-=======
     color: greenyellow;
     margin-top: 0;
 }
@@ -30,5 +22,4 @@ p {
     font-weight: bolder; */
     background-color: seagreen;
     margin top:
->>>>>>> cabecera
 }
